@@ -1,20 +1,3 @@
-/* Author: Yuan Bo
- * Date: 2021/3/15
- * Description:
- * This assignment is going to get you used to working with the
- * Unix/Linux compiler through some exercises and create some ASCII art through file I/O.
- *
- * Usage:
- * This function have the syntax: <exe> <input file> <-a|-i> <outputfile>
- * exe is whatever the name compile
- * ex: gcc -g -Wall bo_yuan_assn3.c -o hexArt
- * the example above give the exe name hexArt
- *
- * Also this function takes two file name and have a '-a' or '-i' in between.
- * when it is -a, function will take a file have only hex number in it and output it to a binary art to output file location
- * when it is -i, function will take a file have only binary art and reverse the art. ( - to #, # to -)
- * */
-
 #include <stdio.h>
 #include <string.h>
 
