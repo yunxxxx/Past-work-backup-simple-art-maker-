@@ -1,4 +1,4 @@
-# Past-work-backup-simple-ragmaker-
+# Past-work-backup-simple-hax art maker-
 This is a backup from a simple hax art maker by using loop.
 
 This program will not have any menu interface.  It will work entirely as a 
